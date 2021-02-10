@@ -1,0 +1,286 @@
+------------------------------Analysis results---------------------------------------
+
+############################################################################
+Individual Model Samples: 
+############################################################################
+
+	metadata:
+		Name: BroadDegreeNetEpidemic.nlogo
+
+	Length metrics:
+		Source Lines of Code (SLOC) = 100
+
+	Halstead metrics:
+		Halstead Program Length = 323
+		Halstead Vocabulary Length = 109
+		Halstead Program Volume  = 2186.1235369029473
+		Halstead Program Difficulty  = 30.18987341772152
+		Halstead Programming Effort  = 65998.79285460165
+		Halstead Language Level  = 2.3985684451320566
+		Halstead Intelligence Content  = 72.41247774227791
+		Halstead Programming Time  = 61.10999338389041
+
+	Control Flow metrics:
+		McCabe's Cyclomatic complexity = TBD
+############################################################################
+
+	metadata:
+		Name: Co-infection_v2.nlogo
+
+	Length metrics:
+		Source Lines of Code (SLOC) = 475
+
+	Halstead metrics:
+		Halstead Program Length = 2552
+		Halstead Vocabulary Length = 280
+		Halstead Program Volume  = 20745.930259243556
+		Halstead Program Difficulty  = 169.85915492957747
+		Halstead Programming Effort  = 3523886.1820630603
+		Halstead Language Level  = 0.719043219755608
+		Halstead Intelligence Content  = 122.13607366553005
+		Halstead Programming Time  = 3262.857575984315
+
+	Control Flow metrics:
+		McCabe's Cyclomatic complexity = TBD
+############################################################################
+
+	metadata:
+		Name: ContactTrackingApp.nlogo
+
+	Length metrics:
+		Source Lines of Code (SLOC) = 345
+
+	Halstead metrics:
+		Halstead Program Length = 1088
+		Halstead Vocabulary Length = 194
+		Halstead Program Volume  = 8268.705172299595
+		Halstead Program Difficulty  = 118.65671641791045
+		Halstead Programming Effort  = 981137.4047728623
+		Halstead Language Level  = 0.5872903369083958
+		Halstead Intelligence Content  = 69.6859429615186
+		Halstead Programming Time  = 908.4605599748726
+
+	Control Flow metrics:
+		McCabe's Cyclomatic complexity = TBD
+############################################################################
+
+	metadata:
+		Name: COVID-19 University Dormitory.nlogo
+
+	Length metrics:
+		Source Lines of Code (SLOC) = 427
+
+	Halstead metrics:
+		Halstead Program Length = 3595
+		Halstead Vocabulary Length = 215
+		Halstead Program Volume  = 27854.75329427411
+		Halstead Program Difficulty  = 282.30882352941177
+		Halstead Programming Effort  = 7863642.632208531
+		Halstead Language Level  = 0.3495026008757079
+		Halstead Intelligence Content  = 98.66766807369065
+		Halstead Programming Time  = 7281.150585378269
+
+	Control Flow metrics:
+		McCabe's Cyclomatic complexity = TBD
+############################################################################
+
+	metadata:
+		Name: COVID-19-US-Masks-V1.nlogo
+
+	Length metrics:
+		Source Lines of Code (SLOC) = 225
+
+	Halstead metrics:
+		Halstead Program Length = 830
+		Halstead Vocabulary Length = 217
+		Halstead Program Volume  = 6442.087522928918
+		Halstead Program Difficulty  = 72.875
+		Halstead Programming Effort  = 469467.1282334449
+		Halstead Language Level  = 1.2130242563526643
+		Halstead Intelligence Content  = 88.39914268170041
+		Halstead Programming Time  = 434.6917854013378
+
+	Control Flow metrics:
+		McCabe's Cyclomatic complexity = TBD
+############################################################################
+
+	metadata:
+		Name: From_Cyber_Space_Opinion_Leaders_and_the_Diffusion_of_Anti-Vaccine_Extremism_to_Physical_Space_Disease_Out-breaks.nlogo
+
+	Length metrics:
+		Source Lines of Code (SLOC) = 294
+
+	Halstead metrics:
+		Halstead Program Length = 819
+		Halstead Vocabulary Length = 170
+		Halstead Program Volume  = 6068.291176696777
+		Halstead Program Difficulty  = 124.16326530612245
+		Halstead Programming Effort  = 753458.847327004
+		Halstead Language Level  = 0.3936227224740376
+		Halstead Intelligence Content  = 48.873482521062144
+		Halstead Programming Time  = 697.647080858337
+
+	Control Flow metrics:
+		McCabe's Cyclomatic complexity = TBD
+############################################################################
+
+	metadata:
+		Name: Ireland_region_diseasespread_hybrid.nlogo
+
+	Length metrics:
+		Source Lines of Code (SLOC) = 788
+
+	Halstead metrics:
+		Halstead Program Length = 3348
+		Halstead Vocabulary Length = 279
+		Halstead Program Volume  = 27199.55815200412
+		Halstead Program Difficulty  = 292.6173469387755
+		Halstead Programming Effort  = 7959062.544346388
+		Halstead Language Level  = 0.31765940078203986
+		Halstead Intelligence Content  = 92.95265108700168
+		Halstead Programming Time  = 7369.502355876286
+
+	Control Flow metrics:
+		McCabe's Cyclomatic complexity = TBD
+############################################################################
+
+	metadata:
+		Name: JuSt-Social.nlogo
+
+	Length metrics:
+		Source Lines of Code (SLOC) = 563
+
+	Halstead metrics:
+		Halstead Program Length = 2309
+		Halstead Vocabulary Length = 368
+		Halstead Program Volume  = 19680.904556535643
+		Halstead Program Difficulty  = 138.00993377483445
+		Halstead Programming Effort  = 2716160.3344763215
+		Halstead Language Level  = 1.0332950770256026
+		Halstead Intelligence Content  = 142.60498515016587
+		Halstead Programming Time  = 2514.963272663261
+
+	Control Flow metrics:
+		McCabe's Cyclomatic complexity = TBD
+############################################################################
+
+	metadata:
+		Name: NetLogo-HIV-spread-model_NL6.1.nlogo
+
+	Length metrics:
+		Source Lines of Code (SLOC) = 1129
+
+	Halstead metrics:
+		Halstead Program Length = 4566
+		Halstead Vocabulary Length = 602
+		Halstead Program Volume  = 42160.7074440848
+		Halstead Program Difficulty  = 195.53976143141153
+		Halstead Programming Effort  = 8244094.675395878
+		Halstead Language Level  = 1.1026501163273579
+		Halstead Intelligence Content  = 215.61194068896975
+		Halstead Programming Time  = 7633.420995736924
+
+	Control Flow metrics:
+		McCabe's Cyclomatic complexity = TBD
+############################################################################
+
+	metadata:
+		Name: Normal.nlogo
+
+	Length metrics:
+		Source Lines of Code (SLOC) = 399
+
+	Halstead metrics:
+		Halstead Program Length = 2106
+		Halstead Vocabulary Length = 124
+		Halstead Program Volume  = 14645.537429674758
+		Halstead Program Difficulty  = 299.88
+		Halstead Programming Effort  = 4391903.764410866
+		Halstead Language Level  = 0.16285845436919552
+		Halstead Intelligence Content  = 48.83799329623435
+		Halstead Programming Time  = 4066.577559639691
+
+	Control Flow metrics:
+		McCabe's Cyclomatic complexity = TBD
+############################################################################
+
+	metadata:
+		Name: PaperVersion.nlogo
+
+	Length metrics:
+		Source Lines of Code (SLOC) = 1315
+
+	Halstead metrics:
+		Halstead Program Length = 5101
+		Halstead Vocabulary Length = 634
+		Halstead Program Volume  = 47481.837392741116
+		Halstead Program Difficulty  = 210.94632768361583
+		Halstead Programming Effort  = 10016119.22966933
+		Halstead Language Level  = 1.0670470706768715
+		Halstead Intelligence Content  = 225.08966102484573
+		Halstead Programming Time  = 9274.184471916047
+
+	Control Flow metrics:
+		McCabe's Cyclomatic complexity = TBD
+############################################################################
+
+	metadata:
+		Name: spanish-flu-pandemic.nlogo
+
+	Length metrics:
+		Source Lines of Code (SLOC) = 6955
+
+	Halstead metrics:
+		Halstead Program Length = 27437
+		Halstead Vocabulary Length = 2752
+		Halstead Program Volume  = 313502.42607476143
+		Halstead Program Difficulty  = 557.1171032357473
+		Halstead Programming Effort  = 174657563.47215012
+		Halstead Language Level  = 1.0100617459975554
+		Halstead Intelligence Content  = 562.7226740193993
+		Halstead Programming Time  = 161719.96617791677
+
+	Control Flow metrics:
+		McCabe's Cyclomatic complexity = TBD
+############################################################################
+
+	metadata:
+		Name: St_Anthony_flu.nlogo
+
+	Length metrics:
+		Source Lines of Code (SLOC) = 1424
+
+	Halstead metrics:
+		Halstead Program Length = 5089
+		Halstead Vocabulary Length = 402
+		Halstead Program Volume  = 44025.202056409566
+		Halstead Program Difficulty  = 290.5740740740741
+		Halstead Programming Effort  = 12792582.323465232
+		Halstead Language Level  = 0.5214199368559815
+		Halstead Intelligence Content  = 151.51111535568901
+		Halstead Programming Time  = 11844.983632838177
+
+	Control Flow metrics:
+		McCabe's Cyclomatic complexity = TBD
+############################################################################
+
+	metadata:
+		Name: TB_helminth_model.nlogo
+
+	Length metrics:
+		Source Lines of Code (SLOC) = 411
+
+	Halstead metrics:
+		Halstead Program Length = 1503
+		Halstead Vocabulary Length = 165
+		Halstead Program Volume  = 11071.582288011461
+		Halstead Program Difficulty  = 190.2135922330097
+		Halstead Programming Effort  = 2105965.4387060245
+		Halstead Language Level  = 0.3060036434086145
+		Halstead Intelligence Content  = 58.206052249141514
+		Halstead Programming Time  = 1949.9679988018745
+
+	Control Flow metrics:
+		McCabe's Cyclomatic complexity = TBD
+############################################################################
+
